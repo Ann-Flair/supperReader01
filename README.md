@@ -1,2 +1,0 @@
-# supperReader01
-copilot
